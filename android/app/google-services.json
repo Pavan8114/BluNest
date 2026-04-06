@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "655422104367",
+    "firebase_url": "https://blunest-flutter-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "blunest-flutter",
+    "storage_bucket": "blunest-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655422104367:android:448ea8628654e0786d37da",
+        "android_client_info": {
+          "package_name": "com.example.blunest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8ZtecLNDkJsMq-IbanewtVVN8P8FEYpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655422104367:android:84c54da246dc9ab06d37da",
+        "android_client_info": {
+          "package_name": "com.pavan.blunest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8ZtecLNDkJsMq-IbanewtVVN8P8FEYpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

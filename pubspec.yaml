@@ -1,0 +1,40 @@
+name: blunest
+description: "BluNest – Intelligent Aquarium Monitoring and Automated Feeding System"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  firebase_core: ^4.5.0
+  firebase_auth: ^6.2.0
+  firebase_database: ^12.1.4
+  fl_chart: ^1.1.1
+  carousel_slider: ^5.1.2
+  flutter_local_notifications: ^20.1.0
+  smooth_page_indicator: ^2.0.1
+  shared_preferences: ^2.5.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_native_splash: ^2.4.7
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/logo.png
+    - assets/images/typo.png
+
+flutter_native_splash:
+  color: "#fffdfd"
+  image: "assets/images/logo.png"
+  android_12:
+    image: "assets/images/logo.png"
+    color: "#fffdfd"
